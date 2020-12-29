@@ -7,7 +7,7 @@ So this year, I've decided to try to catch up with new trends and technologies, 
 
 I found a great community within Scrimba, and this year, they launched a really fun [24 Days of #JavaScriptmas challenge](https://scrimba.com/learn/adventcalendar).
 
-So well, here are my 24 solutions!
+So well, here are my 24 solutions! 👇
 
 ## JavaScriptmas Solutions:
 1. [Candies](https://scrimba.com/scrim/co36c4fe5b41638661f95e226)
